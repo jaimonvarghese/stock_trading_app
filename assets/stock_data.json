@@ -1,0 +1,15 @@
+[
+	{
+	  "symbol": "AAPL",
+	  "currentPrice": 150.0,
+	  "percentChange": 1.5,
+	  "historicalData": [145.0, 147.0, 148.0, 150.0, 151.0]
+	},
+	{
+	  "symbol": "GOOGL",
+	  "currentPrice": 2800.0,
+	  "percentChange": -0.5,
+	  "historicalData": [2750.0, 2780.0, 2790.0, 2800.0, 2795.0]
+	}
+  ]
+  
